@@ -1,9 +1,9 @@
 let x = 1; // let x: number = 1;と同じ意味になる
-x = "hello"; //これは入らない。エラー
+// x = "hello"; //これは入らない。エラー
 
 
 let y = 1;
-console.log(y.substring(1, 3))
+// console.log(y.substring(1, 3))
 
 
 // // 以下JS
